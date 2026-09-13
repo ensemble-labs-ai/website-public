@@ -1,0 +1,4 @@
+# Local remnants are never part of the committed deployment artifact.
+node_modules/
+.DS_Store
+.env*
